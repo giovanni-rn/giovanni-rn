@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm ORIANO DEV</h1>
 <h3 align="center">A full-stack developer from France</h3>
 
-- 👨‍💻 All of my projects are available at [https://oriano.fr](https://oriano.fr)
+- 👨‍💻 All of my infos are available at [https://www.oriano.dev/portfolio](https://www.oriano.dev/portfolio)
 
 - 📝 I regularly write articles on [https://www.oriano.dev](https://www.oriano.dev)
 
